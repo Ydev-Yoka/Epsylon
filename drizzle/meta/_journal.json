@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1770497655014,
+      "tag": "0000_rich_edwin_jarvis",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1770497926044,
+      "tag": "0001_smiling_magik",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1770498617586,
+      "tag": "0002_needy_black_crow",
+      "breakpoints": true
+    }
+  ]
+}
